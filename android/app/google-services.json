@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "848553401987",
+    "project_id": "memora-be657",
+    "storage_bucket": "memora-be657.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:848553401987:android:67aa07b0e4df74706bc5b6",
+        "android_client_info": {
+          "package_name": "com.company.Memora"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0Y5nXHO1ER8thDyqUn19j25UGFzyRPuY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:848553401987:android:678a7bdd514e72ce6bc5b6",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0Y5nXHO1ER8thDyqUn19j25UGFzyRPuY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
